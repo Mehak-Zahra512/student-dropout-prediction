@@ -21,7 +21,7 @@ Evaluated using Mean Squared Error (MSE).
 Attendance was the strongest single predictor —
 stronger than study hours alone.
 
-![Model Output](dropout vs not dropout.png)
+![Model Output](dropout-vs-not-dropout.png)
 
 
 ## Tech Stack
